@@ -13,5 +13,6 @@ __pycache__/
 
 # Data & Outputs (customize as needed)
 data_raw/
+!data_raw/input_imgs/**
 data/
 
