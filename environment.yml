@@ -2,7 +2,6 @@
 dependencies:
   - python=3.11
   - conda-forge::spyder
-  # - nvidia::cuda-toolkit==12.6 ## use only if you have a compatible NVIDIA GPU
   - pip
   - pip:
     ## required for grounded-sam 
