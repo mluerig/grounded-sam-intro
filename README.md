@@ -20,7 +20,7 @@ git clone https://github.com/mluerig/grounded-sam-intro
 
 2\. Install *mamba* via [miniforge](https://github.com/conda-forge/miniforge), or *conda* (Miniconda/Anaconda).  
 
-3\. Create the environment from `environment.yml`:
+3\. Open a terminal at the repo root dir, and create the environment from `environment.yml`:
 
 ```powershell
 mamba env create -f environment.yml -n grounded-sam1
