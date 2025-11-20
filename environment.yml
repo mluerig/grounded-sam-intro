@@ -1,0 +1,15 @@
+## create with `mamba env create -f environment.yml -n grounded-sam1`
+dependencies:
+  - python=3.11
+  - conda-forge::spyder
+  # - nvidia::cuda-toolkit==12.6 ## use only if you have a compatible NVIDIA GPU
+  - pip
+  - pip:
+    ## required for grounded-sam 
+    - autodistill-grounded-sam  
+    - roboflow
+    - scikit-learn
+    ## for processing
+    - jupyter
+    - pandas
+    - phenopype
