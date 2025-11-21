@@ -15,7 +15,7 @@ This is a minimal starter repo to use the Grounded Segment Anything Model (Groun
 Make sure you have *git* and *git lfs* installed on your machine (e.g. via `git lfs install`).
 
 ```powershell
-git clone https://github.com/mluerig/grounded-sam-intro
+git clone https://github.com/mluerig/demo-grounded-sam
 ```
 
 2\. Install *mamba* via [miniforge](https://github.com/conda-forge/miniforge), or *conda* (Miniconda/Anaconda).  
